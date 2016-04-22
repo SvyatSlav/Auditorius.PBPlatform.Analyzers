@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auditorius.PBPlatform.Analy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auditorius.PBPlatform.Analyzers.Test", "Auditorius.PBPlatform.Analyzers\Auditorius.PBPlatform.Analyzers.Test\Auditorius.PBPlatform.Analyzers.Test.csproj", "{87047DDC-ECAF-42EC-B398-6BFF114E7092}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auditorius.PBPlatform.Analyzers.Vsix", "Auditorius.PBPlatform.Analyzers\Auditorius.PBPlatform.Analyzers.Vsix\Auditorius.PBPlatform.Analyzers.Vsix.csproj", "{A0DDB93A-CCAF-40D7-AD98-B8B1B1510E70}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{87047DDC-ECAF-42EC-B398-6BFF114E7092}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87047DDC-ECAF-42EC-B398-6BFF114E7092}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87047DDC-ECAF-42EC-B398-6BFF114E7092}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A0DDB93A-CCAF-40D7-AD98-B8B1B1510E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0DDB93A-CCAF-40D7-AD98-B8B1B1510E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0DDB93A-CCAF-40D7-AD98-B8B1B1510E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0DDB93A-CCAF-40D7-AD98-B8B1B1510E70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
