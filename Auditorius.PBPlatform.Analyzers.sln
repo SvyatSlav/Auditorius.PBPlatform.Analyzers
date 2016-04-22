@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auditorius.PBPlatform.Analy
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C933CAA2-D3DF-4B5F-88E2-C331B9B7CC47}"
 	ProjectSection(SolutionItems) = preProject
-		Auditorius.PBPlatform.Analyzers.1.0.0.nupkg = Auditorius.PBPlatform.Analyzers.1.0.0.nupkg
+		Auditorius.PBPlatform.Analyzers.nuspec = Auditorius.PBPlatform.Analyzers.nuspec
 	EndProjectSection
 EndProject
 Global
