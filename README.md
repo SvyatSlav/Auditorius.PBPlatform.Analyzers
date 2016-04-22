@@ -3,6 +3,7 @@
 Code Anazyers and Fix'es
 
 To add these analyzers to your project use the NuGet package. In the Visual Studio Package Manager Console exeute the following:
+
 `Install-Package Auditorius.PBPlatform.Analyzers`
   
 ## Design Analyzers ##
