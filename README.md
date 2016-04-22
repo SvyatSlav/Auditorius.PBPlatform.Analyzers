@@ -1,6 +1,6 @@
 # Auditorius.PBPlatform.Analyzers
 
-Code Anazyers and Fix'es using in [Audtitorius](http://td.auditorius.ru/) PBP-team
+Set of Roslyn-based Code Anazyers and Fix'es used in [Audtitorius](http://td.auditorius.ru/) PBP-team
 
 To add these analyzers to your project use the NuGet package. In the Visual Studio Package Manager Console exeute the following:
 
